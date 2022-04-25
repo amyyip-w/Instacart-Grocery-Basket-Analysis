@@ -6,10 +6,10 @@ Instacart is an online grocery delivery and pick-up service in the United States
 
 
 ## Data Sets
-**Following data set was fabricated and used in the analysis for learning purposes:
+**Following data set was fabricated and used in the analysis for learning purposes:**
 * Customers
 
-**Following open source data sets from Instacart was used to carry out this project:
+**Following open source data sets from Instacart was used to carry out this project:**
 * Departments
 * Order_products_prior
 * Orders
