@@ -7,7 +7,7 @@ Following data set was fabricated and used in the analysis for learning purposes
 
 Following open source data sets from Instacart was used to carry out this project.
 * Departments
-* Order-products_prior
+* Order_products_prior
 * Orders
 * Products
 
