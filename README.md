@@ -3,7 +3,13 @@ Instacart is an online grocery delivery and pick-up service in the United States
 
 ## Data Sets
 Open source data sets from Instacart was used to carry out this project.
+* Customers
+* Departments
+* Order-products_prior
+* Orders
+* Products
+
 “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from https://www.instacart.com/datasets/grocery-shopping-2017.
-![image](https://user-images.githubusercontent.com/104308455/165020035-99f14da5-e08b-40da-a0cc-c0ba56524732.png)
+
 
 Note: Customer data set and "prices" column in the products data set were fabricated for learning purposes and not for a real client.
