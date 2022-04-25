@@ -13,4 +13,8 @@ Following open source data sets from Instacart was used to carry out this projec
 
 “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from https://www.instacart.com/datasets/grocery-shopping-2017.
 
+## Language
+**Python:** 3.9.7
 
+## Author
+Amy Yip
